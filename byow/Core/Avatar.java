@@ -4,7 +4,7 @@ import byow.TileEngine.TETile;
 import byow.TileEngine.Tileset;
 
 import java.util.HashSet;
-
+//This class controls our 2 players
 public class Avatar {
 
     Position currentPos;
